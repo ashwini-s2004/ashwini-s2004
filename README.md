@@ -38,10 +38,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwini-s2004&layout=compact)
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/ashwini-s2004/ashwini-s2004/blob/output/github-contribution-grid-snake.svg)
----
 
 ## 🔥 GitHub Streak
 
