@@ -1,85 +1,48 @@
+# Hi 👋, I'm Ashwini Sabale
 
-# Hi, I'm Ashwini Sabale 👋
+<img src="YOUR_BANNER_LINK_HERE" width="100%"/>
 
+## 🚀 About Me
 
-🎓 B.Tech Information Technology Student
+🎓 B.Tech Student
 
-💻 Java |C | C++ | C# | MySQL | Software Manual Testing 
-
-
-🚀 Passionate about Software Development and Problem Solving
-
-## 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
----
-
-## About Me
-
-- 🌱 Currently learning Git & GitHub
-- 💡 Interested in Software Development
-- 🎯 Goal: Crack GATE and become a Software Engineer
-- 🤝 Open to collaboration and learning
-
----
-
-## Skills
-
-### Programming Languages
-- C
-- C++
-- Java
-- C#
+💻 Interested in:
+- QA Testing
+- Data Analytics
 - Python
+- SQL
+- Power BI
 
-### Database
-- MySQL
-- Oracle
-
-### Web Technologies
-- HTML5
-- PHP
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- IntelliJ
-- Figma
-- Microsoft Visual Studio (.net Framework)
+🌱 Currently Learning:
+- Manual Testing
+- Automation Testing
+- Data Visualization
 
 ---
 
-## Projects
+## 🛠 Skills
 
-### Gate Quiz System
-Java + MySQL based quiz platform.
-
-### Employee Management System
-Java and MySQL CRUD application.
-
-### Student Registration Form
-Java-based student management system.
-
-### Power Loss Calculator
-C++ application for power calculations.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 
 ---
 
-## Connect With Me
+## 📊 GitHub Stats
 
-📧 Email:
-ashwinisabale61@gmail.com
+![Stats](https://github-readme-stats.vercel.app/api?username=ashwini-s2004&show_icons=true)
 
-💼 LinkedIn:
-https://www.linkedin.com/in/ashwini-sabale-21ba00380
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwini-s2004&layout=compact)
 
-⭐ Thanks for visiting my profile.
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwini-s2004)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: YOUR_LINKEDIN_URL
