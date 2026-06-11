@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ashwini+Sabale;QA+Testing+Enthusiast;Data+Analytics+Learner;Java+C+C%2B%2B+C%23+Developer" />
+</p>
 
 # 👋 Hey, I'm Ashwini Sabale
 
