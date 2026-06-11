@@ -11,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@523a5ba789a61d37cbacc28bb849e1f71e1ea86d
         with:
           github_user_name: ashwini-s2004
           outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@74c5eb880e0b22c3e4d4f4e1b8e0b1c2d3e4f5a6
         with:
           target_branch: output
           build_dir: dist
