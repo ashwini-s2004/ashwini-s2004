@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Ashwini Sabale 👋
 
-<!--
-**ashwini-s2004/ashwini-s2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Java |C | C++ | C# | MySQL | Software Manual Testing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Passionate about Software Development and Problem Solving
+
+---
+
+## About Me
+
+- 🌱 Currently learning Git & GitHub
+- 💡 Interested in Software Development
+- 🎯 Goal: Crack GATE and become a Software Engineer
+- 🤝 Open to collaboration and learning
+
+---
+
+## Skills
+
+### Programming Languages
+- C
+- C++
+- Java
+- C#
+- Python
+
+### Database
+- MySQL
+- Oracle
+
+### Web Technologies
+- HTML5
+- PHP
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- IntelliJ
+- Figma
+- Microsoft Visual Studio (.net Framework)
+
+---
+
+## Projects
+
+### Gate Quiz System
+Java + MySQL based quiz platform.
+
+### Employee Management System
+Java and MySQL CRUD application.
+
+### Student Registration Form
+Java-based student management system.
+
+### Power Loss Calculator
+C++ application for power calculations.
+
+---
+
+## Connect With Me
+
+📧 Email:
+ashwinisabale61@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ashwini-sabale-21ba00380
+
+⭐ Thanks for visiting my profile.
