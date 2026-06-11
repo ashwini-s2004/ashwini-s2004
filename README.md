@@ -1,9 +1,6 @@
 
 # Hi, I'm Ashwini Sabale 👋
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 
 🎓 B.Tech Information Technology Student
 
