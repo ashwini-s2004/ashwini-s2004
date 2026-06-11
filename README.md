@@ -1,4 +1,10 @@
+
 # Hi, I'm Ashwini Sabale 👋
+# Hi, I'm Ashwini Sabale 👋
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 
 🎓 B.Tech Information Technology Student
 
@@ -6,6 +12,9 @@
 
 
 🚀 Passionate about Software Development and Problem Solving
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwini-s2004&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwini-s2004&layout=compact&theme=tokyonight)
 
 ---
 
