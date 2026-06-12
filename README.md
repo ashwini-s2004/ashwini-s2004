@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ashwini+Sabale;QA+Testing+Enthusiast;Data+Analytics+Learner;Java+C+C%2B%2B+C%23+Developer" />
 </p>
 
-# 👋 Hey, I'm Ashwini Sabale
+# align="center"👋 Hey, I'm Ashwini Sabale
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=QA+Testing+Enthusiast;Data+Analytics+Learner;Java+Developer;Future+Software+Engineer;Always+Learning+New+Things"/>
 
@@ -101,11 +101,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/ashwini-s2004/ashwini-s2004/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 🌐 Connect With Me
 
@@ -118,7 +113,5 @@ Email: ashwinisabale61@gmail.com
 <div align="center">
 
 ### ⭐ Thanks For Visiting My Profile ⭐
-## 🐍 Contribution Snake
 
-![snake](https://github.com/ashwini-s2004/ashwini-s2004/blob/output/github-contribution-grid-snake.svg)
 </div>
