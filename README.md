@@ -1,8 +1,5 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ashwini Sabale
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Data+Analytics+Enthusiast;QA+Testing+Learner;Python+%7C+Java+Developer;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=ashwini-s2004&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -214,15 +211,15 @@ Data Analytics project to identify factors influencing employee attrition using 
 
 ---
 
-# 📌 Weekly Development Breakdown
+---
+
+# 💡 Developer Quote
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashwini-s2004&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-
-> **Note:** The WakaTime card will only display data if you use a WakaTime account. If you don't, you can remove this section.
 
 ---
 
