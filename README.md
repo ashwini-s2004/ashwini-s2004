@@ -1,19 +1,9 @@
 
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ashwini+Sabale;Software+Engineering+Student;Data+Analytics+Enthusiast;QA+Testing+Learner;Java+%7C+Python+Developer;Building+Projects+That+Matter+🚀"/>
-
-</div>
 <div align="center">
 
 # 👋 Hi, I'm Ashwini Sabale
 
-### 💻 Software Engineering Student | 📊 Data Analytics Enthusiast | 🧪 QA Testing Learner
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+Developer;Java+Developer;Data+Analytics+Enthusiast;QA+Testing+Learner;Building+Projects+That+Solve+Real+Problems;Always+Learning+New+Technologies+🚀"/>
-</p>
+### 💻 Software Engineering Student | 📊 Data Analytics Enthusiast 
 
 <p>
 
