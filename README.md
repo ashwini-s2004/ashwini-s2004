@@ -1,19 +1,22 @@
 <div align="center">
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-    Hi, I'm Ashwini Sabale
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Data+Analytics+Enthusiast;QA+Testing+Learner;Python+%7C+Java+Developer;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀" />
+# 👋 Hi, I'm Ashwini Sabale
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Data+Analytics+Enthusiast;QA+Testing+Learner;Python+%7C+Java+Developer;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀" />
+### 🚀 Software Engineering Student | Data Analytics Enthusiast | QA Testing Learner
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Python+Developer;Java+Developer;Data+Analytics+Learner;QA+Testing+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+🚀" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=ashwini-s2004&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ashwini-s2004&label=Profile+Views&style=for-the-badge&color=blue"/>
+
 <img src="https://img.shields.io/github/followers/ashwini-s2004?style=for-the-badge&logo=github"/>
+
 <img src="https://img.shields.io/github/stars/ashwini-s2004?style=for-the-badge&logo=github"/>
-</p>
 
 </div>
+
+---
 
 ---
 
