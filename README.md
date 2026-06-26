@@ -1,22 +1,25 @@
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Ashwini Sabale
 
-### 🚀 Software Engineering Student | Data Analytics Enthusiast | QA Testing Learner
+### 💻 Software Engineering Student | 📊 Data Analytics Enthusiast | 🧪 QA Testing Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Python+Developer;Java+Developer;Data+Analytics+Learner;QA+Testing+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+🚀" />
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+Developer;Java+Developer;Data+Analytics+Enthusiast;QA+Testing+Learner;Building+Projects+That+Solve+Real+Problems;Always+Learning+New+Technologies+🚀"/>
+</p>
 
-<br>
+<p>
 
-<img src="https://komarev.com/ghpvc/?username=ashwini-s2004&label=Profile+Views&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=ashwini-s2004&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
 
-<img src="https://img.shields.io/github/followers/ashwini-s2004?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/ashwini-s2004?label=Followers&style=for-the-badge&color=0A66C2"/>
 
-<img src="https://img.shields.io/github/stars/ashwini-s2004?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/ashwini-s2004/ashwini-s2004?style=for-the-badge&color=0A66C2"/>
+
+</p>
 
 </div>
-
----
 
 ---
 
