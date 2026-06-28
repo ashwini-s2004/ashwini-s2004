@@ -155,15 +155,6 @@ Data Analytics project to identify factors influencing employee attrition using 
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashwini-s2004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
----
 
 # 📊 GitHub Statistics
 
@@ -197,17 +188,6 @@ Data Analytics project to identify factors influencing employee attrition using 
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> **⚠️ This animation requires a GitHub Action to generate automatically.**
-
-<img src="https://raw.githubusercontent.com/ashwini-s2004/ashwini-s2004/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # 📅 Coding Activity
 
