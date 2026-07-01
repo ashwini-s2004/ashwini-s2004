@@ -355,16 +355,6 @@ Java-based application that automatically ranks resumes.
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashwini-s2004/ashwini-s2004/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
 # 📈 Coding Activity
 
 <div align="center">
