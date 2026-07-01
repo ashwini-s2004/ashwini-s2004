@@ -193,16 +193,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashwini-s2004&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 🌟 Featured Projects
 
 <table>
