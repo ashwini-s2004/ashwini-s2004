@@ -573,16 +573,6 @@ Automation Testing   ██████░░░░░░░░░░░░░�
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashwini-s2004/ashwini-s2004/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
 # 📈 GitHub Metrics
 
 <div align="center">
@@ -630,58 +620,9 @@ Every contribution motivates me to build more amazing projects.
 </div>
 
 ---
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
 
-permissions:
-  contents: write
 
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ashwini-s2004
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          name: Metrics
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ashwini-s2004
-          template: classic
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_isocalendar: yes
-          plugin_introduction: yes
 
 # 🚀 Thanks for Visiting!
 
