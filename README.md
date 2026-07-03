@@ -157,17 +157,6 @@
 - 📈 Machine Learning
 
 ---
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashwini-s2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwini-s2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -573,15 +562,6 @@ Automation Testing   ██████░░░░░░░░░░░░░�
 
 ---
 
-# 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/ashwini-s2004?template=classic&isocalendar=1&languages=1&introduction=1&repositories=1&activity=1&base.header=0&base.activity=0&base.community=0&config.timezone=Asia%2FKolkata"/>
-
-</div>
-
----
 
 # 💖 Support My Work
 
