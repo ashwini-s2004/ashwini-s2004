@@ -1,7 +1,3 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:8B5CF6,100:3B82F6&text=Ashwini%20Sabale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Data%20Analyst%20•%20Java%20Developer&descAlignY=60"/>
@@ -54,9 +50,6 @@ class Developer {
     String motto = "Code • Learn • Build • Repeat 🚀";
 
 }
-<!-- ===================================================== -->
-<!--              TECH STACK SECTION                       -->
-<!-- ===================================================== -->
 
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
@@ -196,9 +189,6 @@ class Developer {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:3B82F6&height=3"/>
-<!-- ===================================================== -->
-<!--               FEATURED PROJECTS                       -->
-<!-- ===================================================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
