@@ -197,30 +197,6 @@ Dream:
 
 ---
 
-<div align="center">
-
-# ⚡ GitHub Analytics
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=ashwini-s2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=ashwini-s2004&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 Most Used Languages
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwini-s2004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
