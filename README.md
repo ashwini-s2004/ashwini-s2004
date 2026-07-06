@@ -1,15 +1,4 @@
 
-
-
-
-Pasted markdown(1).md
-File
-give me simple and ai animated professional unique readme
-
-Your current README is too long (800+ lines). Recruiters usually spend 30–60 seconds on a profile, so a clean, modern README makes a much stronger impression.
-
-Here's a simple, professional, AI-animated README that looks premium without being cluttered.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Ashwini%20Sabale&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
