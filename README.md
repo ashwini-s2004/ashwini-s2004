@@ -1,110 +1,199 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE" width="100%">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Ashwini Sabale
 
-<br>
+### 💜 Full Stack Developer • Java Developer • Data Analyst • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ashwini+Sabale;💻+Full+Stack+Developer;📊+Data+Analyst;☕+Java+Developer;🚀+Building+Impactful+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;B.Tech+Information+Technology+Student;Full+Stack+Web+Developer;Java+%7C+Python+%7C+React+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New+🚀" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ashwini-s2004&label=Profile%20Views&color=8b5cf6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ashwini-s2004?style=for-the-badge&logo=github&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/ashwini-s2004?affiliations=OWNER&style=for-the-badge&color=F59E0B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:9D4EDD&height=220&section=header&text=Ashwini%20Sabale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20•%20Create%20•%20Innovate&descAlignY=58"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlzNGllNW56MXM0M2p0cXdrcnY4c3B4a3Q5M2FwbjB2Y2k1NjQ4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="35"> About Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+# 💫 About Me
+
+🎓 **B.Tech Information Technology** *(2023–2027)*
+
+💻 Passionate about **Full Stack Development** and **Data Analytics**
+
+🌱 Currently learning **Spring Boot, Advanced Java & Machine Learning**
+
+🚀 Building real-world projects using modern technologies
+
+📊 Interested in Data Visualization and Business Intelligence
+
+⚡ Fun fact: **I enjoy turning coffee ☕ into clean code 💻**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/ashwini-s2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👨‍💻 Developer Profile
 
 ```yaml
-Name        : Ashwini Sabale
-Education   : B.Tech Information Technology (2023–2027)
+Name: Ashwini Sabale
 
-Role        : Full Stack Developer
+Education:
+  - B.Tech Information Technology
 
-Interest    :
-  - Web Development
-  - Data Analytics
-  - Java Development
+Languages:
+  - Java
+  - Python
+  - JavaScript
+  - SQL
 
-Currently Learning :
+Frontend:
+  - HTML5
+  - CSS3
+  - React.js
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express.js
+
+Database:
+  - MongoDB
+  - MySQL
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+  - Power BI
+  - Excel
+
+Currently Learning:
   - Spring Boot
   - Machine Learning
   - System Design
 
-Goal :
-Become a Software Engineer at a Product Company 🚀
+Dream:
+  - Software Engineer at a Product-Based Company 🚀
 ```
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Tech Stack
+## ☕ Daily Routine
+
+```text
+🌅 Wake Up
+      │
+      ▼
+☕ Coffee
+      │
+      ▼
+💻 Code
+      │
+      ▼
+🐛 Debug
+      │
+      ▼
+📚 Learn
+      │
+      ▼
+🚀 Build Projects
+      │
+      ▼
+😴 Sleep
+      │
+      └──────────▶ Repeat 🔄
+```
+
+---
+
+## 💡 Quote I Believe In
+
+> **"First, solve the problem. Then, write the code."** 💜
+
+---
+<div align="center">
+
+# 🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,vscode,postman,figma,powershell&perline=10"/>
+
+</div>
+
+---
+
+# 💻 Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,figma&perline=8"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
 ---
 
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Coding Activity
+# 🎨 Frontend
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwini-s2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwini-s2004&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwini-s2004&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashwini-s2004&theme=discord&no-frame=true&column=7"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# ⚙️ Backend
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ashwini-s2004/ashwini-s2004/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
 </p>
 
 ---
 
-# <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="35"> Connect With Me
+# 🛠️ Developer Tools
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/ashwini-s2004">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,powershell"/>
 
 </p>
 
@@ -112,8 +201,90 @@ Become a Software Engineer at a Product Company 🚀
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Code • Learn • Build • Repeat
+# ⚡ GitHub Analytics
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=140&section=footer"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=ashwini-s2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=ashwini-s2004&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+<div align="center">
+
+# 📊 Most Used Languages
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwini-s2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ashwini-s2004&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=ashwini-s2004&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 Coding Activity
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwini-s2004&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ☕ Coffee Meter
+
+```text
+Java        ████████████████ 100%
+
+React       █████████████░░░ 85%
+
+Python      ██████████████░░ 90%
+
+Debugging   ███████████████░ 95%
+
+Sleep       ██░░░░░░░░░░░░░░ 10%
+
+Coffee      ████████████████ ∞
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
+
+### ⚡ *"Eat • Sleep • Code • Repeat"* ⚡
+
+</div>
+
+---
