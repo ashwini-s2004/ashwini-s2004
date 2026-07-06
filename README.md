@@ -4,8 +4,7 @@
 
 ### 💜 Full Stack Developer • Java Developer • Data Analyst • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;B.Tech+Information+Technology+Student;Full+Stack+Web+Developer;Java+%7C+Python+%7C+React+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New+🚀" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:9D4EDD&height=220&section=header&text=Ashwini%20Sabale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20•%20Create%20•%20Innovate&descAlignY=58"/>
 
 </div>
 
