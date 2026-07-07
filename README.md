@@ -211,17 +211,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=ashwini-s200
 
 <div align="center">
 
-# 🏆 GitHub Trophies
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ashwini-s2004&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 📊 Coding Activity
 
 <img
